@@ -1,5 +1,10 @@
 # Converto
-.
+Currency Converter app built with using free Fixer API - https://fixer.io - which provides exchange rates for EUR as base currency.
 
-https://user-images.githubusercontent.com/11230240/109402983-48c3c200-7952-11eb-9c46-87120c1ed950.mov
+Built using MVM design pattern to have a quick practice on Networking & JSON Decoding.
+
+![ezgif com-resize-2](https://user-images.githubusercontent.com/11230240/109403114-12d30d80-7953-11eb-8f19-54cb1f13142d.gif)
+
+
+
 
