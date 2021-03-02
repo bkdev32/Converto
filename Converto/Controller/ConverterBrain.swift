@@ -10,11 +10,8 @@ import Foundation
 struct ConverterBrain {
     let currencies = ["TRY","AUD","BRL","CAD","CNY","EUR","GBP","HKD","IDR","ILS","INR","JPY","MXN","NOK","NZD","PLN","RON","RUB","SEK","SGD","USD","ZAR"]
     
-//    let baseUrl = "http://data.fixer.io/api/latest?access_key="
-//    let apiKey = "383b13de0b36da01d09faf27f0443583"
-    
     func fetchData() {
-        let urlString = "http://data.fixer.io/api/latest?access_key=383b13de0b36da01d09faf27f0443583"
+        let urlString = "http://data.fixer.io/api/latest?access_key=API_KEY"
         
         if let url = URL(string: urlString) {
             let session = URLSession(configuration: .default)
