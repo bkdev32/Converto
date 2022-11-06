@@ -1,11 +1,11 @@
 # 💰 Converto
 
-I developed this app as a practice on Networking and JSON Decoding.
+I developed this app to practice on Networking and JSON Decoding.
 
 
 Currency Converter app built with [Fixer API](https://fixer.io) which provides free exchange rates using EUR as base currency.
 
-Built using MVM design pattern to have a quick practice on Networking & JSON Decoding.
+Built using MVM design pattern.
 
 I have created the same app in SwiftUI which can be accessed <a href="https://github.com/bkdev32/Converto-SwiftUI">here</a>.
 
